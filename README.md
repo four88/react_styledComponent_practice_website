@@ -7,4 +7,4 @@
 - style-components
 - react-loading
 
-This link for project's website [click here!](https://www.example.com)
+This link for project's website [click here!](https://animated-caramel-1ccd8f.netlify.app)
