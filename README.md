@@ -1,6 +1,6 @@
-# react_styledComponent_practice_website
+# react website with style components 
 
-## This website made by react using style-components for learing propose
+## This website made by react using style-components for self-learning propose
 ### technology using
 - react hooks (using useStatem and useEffect)
 - axios (for connect api)
