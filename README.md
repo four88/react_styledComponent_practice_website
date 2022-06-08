@@ -6,5 +6,6 @@
 - axios (for connect api)
 - style-components
 - react-loading
+- vitejs
 
 This link for project's website [click here!](https://animated-caramel-1ccd8f.netlify.app)

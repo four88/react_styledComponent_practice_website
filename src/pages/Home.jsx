@@ -12,6 +12,7 @@ function Home() {
           <li>axios (for connect api)</li>
           <li>style-components</li>
           <li>react-loading</li>
+          <li>viteJs</li>
         </ul>
         
     </Container>
