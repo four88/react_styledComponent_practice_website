@@ -2,7 +2,7 @@
 
 ## This website made by react using style-components for self-learning propose
 ### technology using
-- react hooks (using useStatem and useEffect)
+- react hooks (using useState and useEffect)
 - axios (for connect api)
 - style-components
 - react-loading
